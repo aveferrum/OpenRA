@@ -11,6 +11,7 @@ obj
 *.CodeAnalysisLog.xml
 *.lastcodeanalysissucceeded
 _ReSharper.*/
+.vscode/
 
 # movies
 *.vqa
@@ -79,3 +80,7 @@ StyleCopViolations.xml
 
 # Support directory
 /Support
+
+# other mods
+OpenRA.Mods.RA2
+mods/ra2
